@@ -1,0 +1,21 @@
+{
+  "name": "Google Sheets Importer",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": ["Text"],
+  "instance": [
+    {
+      "id": "clientId",
+      "name": "Google Sheets Client ID",
+      "description": "Please follow this guide to get a Client ID for Google Sheets",
+      "type": "Symbol",
+      "required": true
+    },
+    {
+      "id": "apiKey",
+      "name": "Google Sheets API Key",
+      "description": "Please follow this guide to get an API Key for Google Sheets",
+      "type": "Symbol",
+      "required": true
+    }
+  ]
+}
