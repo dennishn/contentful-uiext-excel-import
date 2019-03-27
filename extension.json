@@ -1,5 +1,5 @@
 {
-  "name": "Google Sheets Importer",
+  "name": "Example Contentful CSV Importer",
   "srcdoc": "./build/index.html",
   "fieldTypes": ["Text"],
   "instance": [
